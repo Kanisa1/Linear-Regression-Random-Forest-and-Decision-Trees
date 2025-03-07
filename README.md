@@ -1,8 +1,3 @@
-
-
----
-
-```markdown
 # Optimization Using Gradient Descent: Linear Regression
 
 This project demonstrates how to build a simple linear regression model to predict sales based on TV marketing expenses. The project explores three different approaches to solving this problem:
@@ -24,6 +19,7 @@ Additionally, the project compares the performance of Linear Regression with two
 6. [Results](#results)
 7. [Dependencies](#dependencies)
 8. [License](#license)
+9. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -157,19 +153,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Dataset: [tvmarketing.csv](data/tvmarketing.csv)
 - Scikit-Learn Documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
 - NumPy Documentation: [https://numpy.org/doc/](https://numpy.org/doc/)
-```
-
----
-
-### Key Features of the README
-1. **Project Overview**: A brief description of the project and its goals.
-2. **Dataset**: Information about the dataset used.
-3. **Approaches**: Explanation of the three approaches to linear regression and the comparison with other models.
-4. **Setup**: Instructions for setting up the project and installing dependencies.
-5. **Running the Code**: Steps to run the code and generate results.
-6. **Results**: Example output and model performance.
-7. **Dependencies**: List of required libraries.
-8. **License**: Information about the project's license.
-
----
-
