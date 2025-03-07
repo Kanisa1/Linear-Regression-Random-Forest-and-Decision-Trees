@@ -77,8 +77,8 @@ The dataset is loaded using `pandas`, and the relationship between TV expenses a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Kanisa1/Linear-Regression-Random-Forest-and-Decision-Trees.git
+   cd Linear-Regression-Random-Forest-and-Decision-Trees
    ```
 
 2. Install the required libraries:
